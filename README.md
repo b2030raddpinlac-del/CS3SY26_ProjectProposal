@@ -3,7 +3,7 @@
 
 ## Project Proposal Template
 
-### Project Title or Name of the Application	:
+### Project Title or Name of the Application	: haha
 ### Section			   	      :
 ### Group Members			    :
 ### Date (Proposal Date)  : Nov 5, 2026
